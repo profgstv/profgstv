@@ -4,4 +4,4 @@ A minha paixão por tecnologia e inovação é o envolvimento com a criatividade
 ## Projetos em linguagens de programação
 Caso você esteja vindo do meu [portifólio](https://profgstv.github.io/portifolio/), já sabe os tipos de projetos de tecnologia e inovação que trabalhei e onde encontrar os meus outros projetos educacionais. Caso não tenha visto ainda [dá uma olhada lá!](https://profgstv.github.io/portifolio/)
 
-### Para maiores informações, [entre em contato comigo.](mailto:gustavo.jorge77@outlook.com)
+### Para maiores informações, [entre em contato comigo.](mailto:gustavo.jorge77@outlook.com).
